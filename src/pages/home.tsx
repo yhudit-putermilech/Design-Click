@@ -72,7 +72,7 @@ export default function MyAlbumHomepage() {
       title: "Album Sharing",
       description: "Easily share albums with family and friends (coming soon)",
       bgColor: "#e8f5e8",
-    },
+    },/*
     {
       icon: <Security sx={{ fontSize: 40, color: "#ff9800" }} />,
       title: "Full Privacy",
@@ -92,7 +92,7 @@ export default function MyAlbumHomepage() {
       description:
         "A simple and intuitive interface to manage your albums and photos",
       bgColor: "#eceff1",
-    },
+    },*/
   ];
 
   return (
@@ -320,7 +320,7 @@ export default function MyAlbumHomepage() {
               color="text.secondary"
               sx={{ maxWidth: 600, mx: "auto" }}
             >
-              MYALBUM brings you advanced technology that makes photo management
+              Design Click brings you advanced technology that makes photo management
               fun and simple
             </Typography>
           </Box>
@@ -522,7 +522,7 @@ export default function MyAlbumHomepage() {
               </Typography>
               <Typography variant="h6" sx={{ mb: 4, opacity: 0.9 }}>
                 Join thousands of users already creating amazing albums with
-                MYALBUM
+                Design Click
               </Typography>
               <Box
                 sx={{
@@ -574,7 +574,7 @@ export default function MyAlbumHomepage() {
                 Free • Photo Security
               </Typography>
               <Typography variant="body1" sx={{ mt: 3, opacity: 0.8 }}>
-                © MyAlbum System by yhudit putermilech {new Date().getFullYear()} | All
+                © Design Click System by yhudit putermilech {new Date().getFullYear()} | All
                 rights reserved
               </Typography>
             </Box>
