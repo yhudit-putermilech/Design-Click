@@ -570,7 +570,7 @@ export default function MyAlbumHomepage() {
                 Free • Photo Security
               </Typography>
               <Typography variant="body1" sx={{ mt: 3, opacity: 0.8 }}>
-                © MyAlbum System by m. Elkayam {new Date().getFullYear()} | All
+                © MyAlbum System by yhudit putermilech {new Date().getFullYear()} | All
                 rights reserved
               </Typography>
             </Box>
