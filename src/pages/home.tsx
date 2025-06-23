@@ -15,8 +15,6 @@ import {
   Cloud,
   Palette,
   Share,
-  Security,
-  Speed,
   Upload,
   PlayArrow,
   Check,
