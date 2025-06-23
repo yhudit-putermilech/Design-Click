@@ -102,7 +102,9 @@ export default function MyAlbumHomepage() {
         {/* Hero Section */}
         <Box
           sx={{
-            background: "linear-gradient(135deg, #e93345 0%, #ff6b7a 100%)",
+         //   background: "linear-gradient(135deg, #e93345 0%, #ff6b7a 100%)",
+         background: "linear-gradient(135deg, #2196f3 0%, #90caf9 100%)",
+
             color: "white",
             py: { xs: 8, md: 12 },
             position: "relative",
@@ -131,7 +133,7 @@ export default function MyAlbumHomepage() {
                       lineHeight: 1.2,
                     }}
                   >
-                    MYALBUM
+                    Design Click
                     <br />
                     <Typography
                       component="span"
@@ -503,7 +505,9 @@ export default function MyAlbumHomepage() {
         {/* CTA Section */}
         <Box
           sx={{
-            background: "linear-gradient(135deg, #e93345 0%, #ff6b7a 100%)",
+          //  background: "linear-gradient(135deg, #e93345 0%, #ff6b7a 100%)",
+          background: "linear-gradient(135deg, #2196f3 0%, #90caf9 100%)",
+
             color: "white",
             py: 10,
           }}
